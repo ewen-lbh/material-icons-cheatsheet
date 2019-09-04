@@ -1,4 +1,4 @@
-ac_unit snow,winter,cold
+ac_unit snow,winter,cold,ice
 access_alarm clock,time
 access_alarms clock,time
 access_time clock
@@ -11,7 +11,7 @@ adb android,bot,bug,bee
 add plus,increase
 add_a_photo camera,picture
 add_box plus
-add_circle plus
+add_circle plus,positive
 airport_shuttle bus
 adjust target
 airline_seat_flat_angled bed,sleep
@@ -25,7 +25,7 @@ arrow_forward right
 android robot,bot
 attach_file clip,paper
 attachment clip,paper
-backspace remove
+backspace remove,erase
 assignment clipboard
 backup cloud,upload
 beach_access umbrella
@@ -42,18 +42,18 @@ schedule clock,time
 zoom_in magnifier
 zoom_out magnifier
 search magnifier
-work suitcase,briefcase
+work suitcase,briefcase,bag
 watch clock,time
 watch_later clock,time
 visibility view,eye,vision,show
 visibility_off view,hide,off
-update timer,stop,watch
+update timer,stop,watch,history
 unfold_less collapse,accordion,contraction
 unfold_more expand,accordion,stretch
 trending_down arrow,down
 trending_flat arrow,right,horizontal
 trending_up arrow,up
-tune config,setup,adjustment
+tune config,setup,adjustment,settings
 broken_image division
 build wrench,tool
 content_cut scissors
